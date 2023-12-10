@@ -433,7 +433,7 @@ function responderTexto(texto) {
       if (oracion.includes(inicio[i])) {
         animar(0, 2);
         Cambiar(1);
-        const texto = 'Hola, Muy buen día para todos. gracias por invitarme a este magnifico evento';
+        const texto = 'Hola, soy Asucena una inteligencia artificial creada para brindar información acerca de los servicios administrativos del sector salud, ¿como puedo ayudarte?, selecciona una de las siguientes opciónes procesos de admisiones, facturación, afiliaciones, atención al usuario, PQR, casos reales o información general';
         leerTexto(texto);
         
       }
